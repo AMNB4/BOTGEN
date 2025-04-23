@@ -6,23 +6,23 @@
     "remove-capture-from-stock": true,
     "commands-give-cooldown": true,
 
-    "gen-channels": [1234533378],
-    "premium-gen-channels": [1234565589],
+    "gen-channels": [1364430699993632919],
+    "premium-gen-channels": [1364430748962127933],
 
-    "admin-roles": [12345644489],
+    "admin-roles": [1364427214250315829],
     "default_cooldown": 600,
     "roles": [
         {
             "id": 12345678987654322,
-            "free-cooldown": 600,
-            "premium-cooldown": 300,
+            "free-cooldown": 100,
+            "premium-cooldown": 30,
             "gen-access": ["all"],
             "remove-if-expired": false
         },
         {
             "id": 12345678987654321,
-            "free-cooldown": 300,
-            "premium-cooldown": 60,
+            "free-cooldown": 100,
+            "premium-cooldown": 30,
             "gen-access": ["all"],
             "remove-if-expired": true
         }
@@ -32,8 +32,8 @@
     "subscription-stages": ["Free", "Premium"],
 
     "messages": {
-        "altsent": "Thank you for using **AtluzkaGEN**",
-        "footer-msg": "github.com/Atluzka/account-gen-bot"
+        "altsent": "Thank you for using **Our Bot**",
+        "footer-msg": "CHICKEN JOCKEY"
     },
 
     "generate-settings": {
